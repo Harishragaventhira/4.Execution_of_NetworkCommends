@@ -1,7 +1,7 @@
 # 4.Execution_of_NetworkCommands
-## NAME : HIRUTHIK SUDHAKAR
+## NAME :HARISH S
 
-## REGISTER NUMBER : 212223240054
+## REGISTER NUMBER : 212223230072
 ## AIM :Use of Network commands in Real Time environment
 ## Software : 
 Command Prompt And Network Protocol Analyzer
